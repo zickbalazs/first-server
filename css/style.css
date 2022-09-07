@@ -1,0 +1,10 @@
+ul>li{
+    display:inline;
+    margin-left:10px;
+}
+h3{
+    text-align: center;
+}
+label{
+    display:block;
+}
